@@ -3,5 +3,6 @@ languageCode = "ja"
 title = "第22回日本加速器学会年会"
 disableKinds = ["RSS", "sitemap"]
 ignoreLogs = ['warning-goldmark-raw-html']
+buildFuture = true
 [markup.goldmark.renderer]
   unsafe = true

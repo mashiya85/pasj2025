@@ -1,8 +1,9 @@
 +++
-date = '2025-02-26T16:12:11+09:00'
+date = '2025-03-03T00:00:00+09:00'
 draft = false
 title = '第１回サーキュラー'
 url = '/first_circular.html'
+description = '配信'
 +++
 
 <div style="text-align: right;">
@@ -218,7 +219,7 @@ https://iap-jp.org/pasj/mypage/password_reset/
   論文のフォーマットは、和文の場合は年会 Webページ*１から、英文の場合は JACoW 形式とし JACoWのWeb ページ*２から、最新のテンプレートをダウンロードしてお使いください。  
   古いテンプレートのご使用は避けてください。作成に当たってはテンプレートからの逸脱が無いようご注意願います。
 
- *1 [https://www.pasj.jp/templates.html](https://www.pasj.jp/templates.html)
+ *1 [https://www.pasj.jp/templates.html](https://www.pasj.jp/templates.html)  
  *2 [https://www.jacow.org/index.php?n=Authors.HomePage](https://www.jacow.org/index.php?n=Authors.HomePage) 
 
 ### 宿泊予約
