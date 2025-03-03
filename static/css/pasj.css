@@ -87,7 +87,6 @@ strong {
 }
 
 .committee {
-    font-size: 12px;
     display: block;
     height: auto;
     width: auto;
@@ -97,7 +96,6 @@ strong {
 }
 
 .chairman {
-    font-size: 14px;
     font-weight: bold;
 }
 
