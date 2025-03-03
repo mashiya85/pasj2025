@@ -2,7 +2,7 @@
 date = '2025-03-28T14:57:26+09:00'
 draft = false
 title = '展示・広告申込'
-url = '/hotels.html'
+url = '/application.html'
 hidden = true
 +++
 
