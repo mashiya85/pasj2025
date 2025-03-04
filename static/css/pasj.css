@@ -131,3 +131,7 @@ table td{
     border: solid, 1px, black;
     border-width: 1px;
 }
+
+.responsive-text {
+    font-size: clamp(12px, 2vw, 24px);
+}
