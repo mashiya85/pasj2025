@@ -6,7 +6,7 @@ url = '/contact.html'
 hidden = true
 +++
 
-## 参加・企業展示等の連絡先
+## 年会・発表申込に関するお問い合わせ
 
 ### 日本加速器学会ヘルプデスク
 
@@ -15,11 +15,3 @@ hidden = true
 * Mail  : [pasj-desk@conf.bunken.co.jp](mailto:pasj-desk@conf.bunken.co.jp)  
 
 * FAX   : 03-5227-8632  
-
----
-
-## 発表申し込み・プログラム・プロシーディングスの連絡先
-
-### 行事委員会  
-
-* Mail : [pasj-program@conf.bunken.co.jp](mailto:pasj-program@conf.bunken.co.jp)  
