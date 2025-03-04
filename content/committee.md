@@ -25,7 +25,7 @@ hidden = true
 <span class="name">植木　竜一</span>	高エネルギー加速器研究機構　加速器第四研究系<br>
 <span class="name">上島　考太</span>	量子科学技術研究開発機構<br>
 <span class="name">内山　暁仁</span>	理化学研究所　仁科加速器研究センター<br>
-<span class="name">大木　俊征</span>　	高エネルギー加速器研究機構　加速器第四研究系<br>
+<span class="name">大木　俊征</span> 高エネルギー加速器研究機構　加速器第四研究系<br>
 <span class="name">大島　隆</span>	高輝度光科学研究センター<br>
 <span class="name">大関　和貴</span>	理化学研究所　仁科加速器研究センター<br>
 <span class="name">大塚　崇光</span>	宇都宮大学<br>
@@ -61,7 +61,7 @@ hidden = true
 
 ## 行事委員会
 
-<span class="chairman"><span class="name">行事委員長</span>	原田　寛之 (日本原子力研究開発機構　J-PARCセンター)</span>
+<span class="chairman"><span class="name">委員長</span>	原田　寛之 (日本原子力研究開発機構　J-PARCセンター)</span>
 
 <p style="margin-left:4em">
 <span class="name">田村　文彦</span> 	広報委員長／日本原子力研究開発機構 J-PARCセンター<br>
