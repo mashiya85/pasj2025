@@ -1,4 +1,4 @@
-baseURL = "https://www.pasj.jp/dai22kainenkai_test2/"
+baseURL = "https://www.pasj.jp/dai22kainenkai/"
 languageCode = "ja"
 title = "第22回日本加速器学会年会"
 disableKinds = ["RSS", "sitemap"]
