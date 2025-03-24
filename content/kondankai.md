@@ -80,4 +80,4 @@ Zoomミーティング・ブレイクアウトルーム
 
 * [第1回学生・企業研究機関懇談会 HP](https://conference.wdc-jp.com/pasj/2023/)
 * [第2回学生・企業研究機関懇談会 HP](https://conference.wdc-jp.com/pasj/2024/)
-* [報告書 ( 「加速器」20巻 4号 p.332-335(2024) )](https://www.jstage.jst.go.jp/browse/pasj/list/-char/ja)
+* [報告書 ( 「加速器」20巻 4号 p.332-335(2024) )](https://www.jstage.jst.go.jp/article/pasj/20/4/20_200402/_pdf/-char/ja)
