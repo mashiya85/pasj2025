@@ -6,6 +6,11 @@ url = '/company2.html'
 hidden = true
 +++
 
+<a class="btn btn-success" href="https://form.run/@pasj2025-exhibition-form" role="button">
+                企業展示出展・広告掲載申し込み
+                <img src="images/external_link.svg" alt="link icon">
+            </a> 4月8日(火) 13:00より<br>
+
 <div style="text-align: right;">
 第22回日本加速器学会年会<br>  
 実行委員長 <span class="name">林崎　規託</span><br>
@@ -23,10 +28,6 @@ hidden = true
 ## 申込方法
 
 2025年4月8日（火）13:00 よりwebで申し込みを受け付けます。  
-<a class="btn btn-success" href="https://form.run/@pasj2025-exhibition-form" role="button">
-                企業展示出展・広告掲載申し込み
-                <img src="images/external_link.svg" alt="link icon">
-            </a><br>
 
 <table class="table table-bordered table-striped">
             <tr>
