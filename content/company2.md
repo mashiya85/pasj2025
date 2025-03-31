@@ -2,8 +2,9 @@
 date = '2025-03-28T14:57:26+09:00'
 draft = false
 title = '広告掲載募集要項'
+description = 'の情報を更新しました'
 url = '/company2.html'
-hidden = true
+hidden = false
 +++
 
 <a class="btn btn-success" href="https://form.run/@pasj2025-exhibition-form" role="button">

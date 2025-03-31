@@ -1,9 +1,10 @@
 +++
-date = '2025-03-28T14:57:26+09:00'
+date = '2025-04-01T14:57:26+09:00'
 draft = false
 title = '第3回学生・企業/研究機関懇談会'
+description = 'の情報を更新しました。'
 url = '/kondankai.html'
-hidden = true
+hidden = false
 +++
 
 

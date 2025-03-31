@@ -1,9 +1,10 @@
 +++
-date = '2025-03-28T14:57:26+09:00'
+date = '2025-04-01T14:57:26+09:00'
 draft = false
 title = '企業展示出展要領'
+description = 'の情報を更新しました'
 url = '/company.html'
-hidden = true
+hidden = false
 +++
 
 [pdf file](./files/PASJ2025企業展示出展要領.pdf)   
