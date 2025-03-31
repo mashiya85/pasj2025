@@ -142,6 +142,7 @@ URL：[https://www.tcu.ac.jp/campuslife/introduction/setagayacampus/](https://ww
 </table>
 
 名誉会員、シニア会員の定義に関しましては、日本加速器学会の[定款](https://www.pasj.jp/teikan_240401.pdf)をご覧ください。  
+シニア会員は申請後、理事会にて承認されれば次年度からの適用となりますのでご注意ください。
 
 ### 参加費支払い
 
