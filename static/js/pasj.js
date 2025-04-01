@@ -3,12 +3,14 @@ function dropdownHover() {
     dropdowns.forEach(function (dropdown) {
         dropdown.addEventListener('mouseenter', function () {
             const dropdownMenu = this.querySelector('.dropdown-menu');
-            dropdownMenu.classList.add('show');
+            const dropdown = new bootstrap.Dropdown(dropdownMenu);
+            dropdown.show();
         });
 
         dropdown.addEventListener('mouseleave', function () {
             const dropdownMenu = this.querySelector('.dropdown-menu');
-            dropdownMenu.classList.remove('show');
+            const dropdown = new bootstrap.Dropdown(dropdownMenu);
+            dropdown.hide();
         });
     });
 }
