@@ -77,9 +77,6 @@ strong {
 
 .dropdown-menu {
     transition: opacity 0.3s ease, visibility 0.3s ease;
-    opacity: 0;
-    visibility: hidden;
-    display: block;
 }
 
 .nav-item.dropdown:hover .dropdown-menu {
