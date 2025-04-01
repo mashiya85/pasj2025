@@ -5,18 +5,19 @@
             <div class="information-box">
                 <h4>更新情報</h4>
                 <div class="h-75 overflow-y-auto">
-                {{ range where .Site.RegularPages.ByDate.Reverse "Params.hidden" "!=" true }}
-                    <p style="margin-bottom: 0;">[{{ .Date.Format "2006/01/02" }}] <a href="{{ .RelPermalink }}">{{ .Title }}</a> {{ .Params.description }}</p>
-                {{ end }}
+                    {{ range where .Site.RegularPages.ByDate.Reverse "Params.hidden" "!=" true }}
+                    <p style="margin-bottom: 0;">[{{ .Date.Format "2006/01/02" }}] <a href="{{ .RelPermalink }}">{{
+                            .Title }}</a> {{ .Params.description }}</p>
+                    {{ end }}
                 </div>
             </div>
         </div>
-        
-        
+
+
         <div class="col-md-6 mt-5 mb-5">
-        <!--    <img src="./images/TCU01.jpg" alt="TCU01"> -->
-        <b>発表申し込み受付中!!</b> (参加申し込みは<b>4月22日(火)</b>から)<br>
-        参加・発表申し込みはこちらから↓<br>
+            <!--    <img src="./images/TCU01.jpg" alt="TCU01"> -->
+            <b>発表申し込み受付中!!</b> (参加申し込みは<b>4月22日(火)</b>から)<br>
+            参加・発表申し込みはこちらから↓<br>
             <a class="btn btn-primary" href="https://iap-jp.org/pasj/conf/" role="button">
                 PASJ2025 参加・発表申込システム
                 <img src="images/external_link.svg" alt="link icon">
