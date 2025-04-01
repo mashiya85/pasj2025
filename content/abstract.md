@@ -10,7 +10,7 @@ url = '/abstract.html'
 
 **4 月 1 日(月)  - 5 月 9 日(金)** 
 
-<a class="btn btn-primary" href="https://staging.iap-jp.org/pasj/conf/" role="button">
+<a class="btn btn-primary" href="https://iap-jp.org/pasj/conf/" role="button">
                 PASJ2025 参加・発表申込システム
                 <img src="images/external_link.svg" alt="link icon">
             </a><br>
