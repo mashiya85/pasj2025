@@ -16,15 +16,14 @@ url = '/join.html'
 以下の通りです。第 21 回年会（PASJ2024）より「名誉会員」と本学会法人化に伴い新設された
 「シニア会員」の区分が設定されています。
 
-<table class="table table-bordered table-striped">
-<thead><tr><th></th><th>事前支払</th><th>当日支払</th></tr></thead>
-<tbody><tr><td>正会員(一般)</td><td>7,000 円</td><td><span style="margin-left:0.5em">8,000 円</span></td></tr>
-<tr><td>正会員(学生)</td><td>2,000 円</td><td><span style="margin-left:0.5em">2,500 円</span></td></tr>
-<tr><td>シニア会員</td><td>2,000 円</td><td><span style="margin-left:0.5em">2,500 円</span></td></tr>
-<tr><td>名誉会員</td><td><span style="margin-left:1.85em">0 円</span></td><td><span style="margin-left:2.35em">0 円</span></td></tr>
-<tr><td>非会員(一般)</td><td>9,000 円</td><td>10,000 円</td></tr>
-<tr><td>非会員(学生)</td><td>4,000 円</td><td><span style="margin-left:0.5em">4,500 円</span></td></tr></tbody>
-</table>
+||事前支払|当日支払|
+|---|---:|---:|
+|正会員(一般)|7,000 円|8,000 円|  
+|正会員(学生)|2,000 円|2,500 円|  
+|シニア会員  |2,000 円|2,500 円|
+|名誉会員    |0 円|0 円|
+|非会員(一般)|9,000 円 |10,000 円|  
+|非会員(学生)|4,000 円 |4,500 円| 
 
 名誉会員、シニア会員の定義に関しましては、日本加速器学会の[定款](https://www.pasj.jp/teikan_240401.pdf)をご覧ください。  
 シニア会員は申請後、理事会にて承認されれば次年度からの適用となりますのでご注意ください。  
