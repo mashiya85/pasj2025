@@ -19,31 +19,6 @@ body {
     height: 200px;
 }
 
-.contact {
-    padding: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    border-radius: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.contact-2 {
-    margin-left: 2em;
-    border: solid;
-    border-radius: 4px;
-    border-width: 1px;
-    border-color: #191919;
-    width: fit-content;
-    padding: 3px;
-}
-
-.last-modify {
-    clear: both;
-    padding: 10px 10px 10px 0;
-    background: #efede9;
-    text-align: right;
-}
-
 .copyright {
     clear: both;
     padding: 20px 0;
@@ -73,15 +48,6 @@ body {
 strong {
     color: red;
     text-decoration: underline;
-}
-
-.committee {
-    display: block;
-    height: auto;
-    width: auto;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin: 0 auto;
 }
 
 .chairman {
