@@ -75,15 +75,6 @@ strong {
     text-decoration: underline;
 }
 
-.dropdown-menu {
-    transition: opacity 0.3s ease, visibility 0.3s ease;
-}
-
-.nav-item.dropdown:hover .dropdown-menu {
-    opacity: 1;
-    visibility: visible;
-}
-
 .committee {
     display: block;
     height: auto;
